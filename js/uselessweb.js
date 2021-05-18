@@ -80,6 +80,10 @@ function uselessWebButton( button, popup ) {
 		['http://tomsdog.com/',                                       false, 1],
 		['http://hardcoreprawnlawn.com/',                             false, 1],
 		['http://www.omfgdogs.com/',                                  false, 7],
+		['http://ethanarterberry.com/sickflow/',                      false, 1],
+		['http://ethanarterberry.com/webdriver/',                     false, 1],
+		['http://ethanarterberry.com/damnsonwheredyoufindthis/',      false, 1],
+		['http://ethanarterberry.com/easy/',                          false, 4]
 	];
 
 	var sites = null;
