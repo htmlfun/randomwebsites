@@ -1,6 +1,8 @@
 # The Useless Web
 Take me to another useless website please. The useless web is a single button, which opens new links to an array of strange and odd websites. Its live [here](http://www.theuselessweb.com).
 
+This Is The Unblocked Version From HTMLFun
+
 ### Contributions
 Feel free to open a pull request adding your website or removing something thats down.
 
